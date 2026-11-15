@@ -21,7 +21,6 @@ pandas==3.0.6
 
 # --- PDF report & images 
 reportlab==5.0.0
-Pillow==12.3.0
 
 # --- Auth 
 PyJWT==2.13.0
