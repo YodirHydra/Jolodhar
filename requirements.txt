@@ -13,7 +13,7 @@ Flask-SocketIO==5.6.1
 simple-websocket==1.1.0      # websocket transport for Flask-SocketIO (threading mode)
 
 # --- Machine learning / data 
-numpy==2.5.2
+numpy==1.26.2
 pandas==3.0.6
 
 # --- PDF report & images 
